@@ -16,7 +16,7 @@ This project analyzes and viewing behavior from Jan–Nov 2024 to shape post-mer
 5. **Advanced Analytics & Further Research** – Deep dives into content engagement, retention patterns, and subscription behavior for future business optimization.  
 ### 📝 Project file details: 
 1. **Database/Data Source file** -
-2. **PowerBI(pbix) file** -
+2. **PowerBI(pbix) file** -[PBIX FILE](https://github.com/Aniru1105/Telecom_Analysis/blob/main/jotstar%26liocinema%20(1).pbix) : *NEED POWER BI TO OPEN THIS*
 3. **PowerBI fabric Application link** - [FABRIC DASHBOARD DIRECT LINK ](https://app.powerbi.com/links/dspz1ykcmA?ctid=4fd60770-0a1d-4047-b029-26a2cc4b34e2&pbi_source=linkShare)
 4. **Powerpoint file** -[POWERPOINT PPT FILE](https://github.com/Aniru1105/Telecom_Analysis/blob/main/JOTSTAR%26LIOCINEMA%20PPT.pptx) : *MUST HAVE AN POWERBI ACCOUNT TO OPEN THIS*
 5. **PDF file** - [PDF FORM FILE](https://github.com/Aniru1105/Telecom_Analysis/blob/main/jotstar%26liocinema%20(1)-output.pdf)
