@@ -20,9 +20,8 @@ This project analyzes and viewing behavior from Jan–Nov 2024 to shape post-mer
 3. **PowerBI fabric Application link** -
 4. **Powerpoint file** -
 5. **PDF file** -
-6. **SQL data analysis Query** -
-7. **Aims Grid** -
-   [Download AIMS GRID](https://github.com/Aniru1105/Telecom_Analysis/blob/main/AIMS%20GRID%20JOTSTAR%20AND%20LIOCINEMA.pptx)
+6. **SQL data analysis Query** -[SQL QUERY FILE](https://github.com/Aniru1105/Telecom_Analysis/blob/main/JOTSTAR%26LIOCINEMA%20%5BSQL%20ANALYSIS%5D.sql)
+7. **Aims Grid** -[Download AIMS GRID](https://github.com/Aniru1105/Telecom_Analysis/blob/main/AIMS%20GRID%20JOTSTAR%20AND%20LIOCINEMA.pptx)
    
   
    
