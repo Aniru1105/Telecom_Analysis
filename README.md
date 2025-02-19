@@ -19,7 +19,7 @@ This project analyzes and viewing behavior from Jan–Nov 2024 to shape post-mer
 2. **PowerBI(pbix) file** -
 3. **PowerBI fabric Application link** - [FABRIC DASHBOARD DIRECT LINK ](https://app.powerbi.com/links/dspz1ykcmA?ctid=4fd60770-0a1d-4047-b029-26a2cc4b34e2&pbi_source=linkShare)
 4. **Powerpoint file** -[POWERPOINT PPT FILE](https://github.com/Aniru1105/Telecom_Analysis/blob/main/JOTSTAR%26LIOCINEMA%20PPT.pptx) : *MUST HAVE AN POWERBI ACCOUNT TO OPEN THIS*
-5. **PDF file** -
+5. **PDF file** - [PDF FORM FILE](https://github.com/Aniru1105/Telecom_Analysis/blob/main/jotstar%26liocinema%20(1)-output.pdf)
 6. **SQL data analysis Query** -[SQL QUERY FILE](https://github.com/Aniru1105/Telecom_Analysis/blob/main/JOTSTAR%26LIOCINEMA%20%5BSQL%20ANALYSIS%5D.sql)
 7. **Aims Grid** -[Download AIMS GRID](https://github.com/Aniru1105/Telecom_Analysis/blob/main/AIMS%20GRID%20JOTSTAR%20AND%20LIOCINEMA.pptx)
    
