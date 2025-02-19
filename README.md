@@ -21,7 +21,7 @@ This project analyzes and viewing behavior from Jan–Nov 2024 to shape post-mer
 4. **Powerpoint file** -
 5. **PDF file** -
 6. **SQL data analysis Query** -
-7. **Aims Grid** -
+7. **Aims Grid** - [AIMS GRID JOTSTAR AND LIOCINEMA.pptx]
    
   
    
