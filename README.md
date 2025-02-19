@@ -17,7 +17,7 @@ This project analyzes and viewing behavior from Jan–Nov 2024 to shape post-mer
 ### 📝 Project file details: 
 1. **Database/Data Source file** -
 2. **PowerBI(pbix) file** -
-3. **PowerBI fabric Application link** -
+3. **PowerBI fabric Application link** - [FABRIC DASHBOARD DIRECT LINK ](https://app.powerbi.com/links/dspz1ykcmA?ctid=4fd60770-0a1d-4047-b029-26a2cc4b34e2&pbi_source=linkShare)
 4. **Powerpoint file** -
 5. **PDF file** -
 6. **SQL data analysis Query** -[SQL QUERY FILE](https://github.com/Aniru1105/Telecom_Analysis/blob/main/JOTSTAR%26LIOCINEMA%20%5BSQL%20ANALYSIS%5D.sql)
